@@ -1,0 +1,17 @@
+private void Splitword(String text) {
+    
+    char[] arr=new char[text.length()];
+     for (int i = 0;i <text.length(); i++){
+    arr[i]=text.charAt(i);
+    }
+   for (int i = 0;i <text.length(); i++){
+       System.out.println(arr[i]);
+    }
+}      
+
+obj.start();
+
+ ManagerAgent obj=new ManagerAgent();
+
+කැ කෑ කි කී කු කූ කෘ කෲ කෙ ි
+ක ක කි කී කු කූ කෘ කෲ කෙ 
